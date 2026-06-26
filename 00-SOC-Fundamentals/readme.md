@@ -17,7 +17,7 @@ The tools don't find the hackers; the people do. The tools simply provide the ev
 - **Architects** (Strategic, focused on the "big picture").
 
 ### ⚙️ Process (The Playbook)
-Without process, a SOC is just a group of people guessing. Process is defined by **Playbooks**—standardized, step-by-step instructions for specific alerts (e.g., *"If a Phishing alert triggers $\rightarrow$ check the URL $\rightarrow$ isolate the host $\rightarrow$ reset the password"*).
+Without process, a SOC is just a group of people guessing. Process is defined by **Playbooks**—standardized, step-by-step instructions for specific alerts (e.g., *"If a Phishing alert triggers -> check the URL -> isolate the host -> reset the password"*).
 
 ### 🛠️ Technology (The Force Multiplier)
 Technology is used to automate the boring parts.
@@ -66,7 +66,7 @@ The SOC collects logs from everywhere: Windows Event Logs, Firewall traffic, Clo
 
 ### Step 2: Correlation & Triggering
 The SIEM looks for patterns. 
-- **Example:** `(Failed Login x 10)` $\rightarrow$ `(Successful Login x 1)` $\rightarrow$ `(Execution of cmd.exe)` within 5 minutes on the same host.
+- **Example:** `(Failed Login x 10)` -> `(Successful Login x 1)` -> `(Execution of cmd.exe)` within 5 minutes on the same host.
 - **Result:** A "Brute Force Success" alert is triggered.
 
 ### Step 3: Triage (L1 Phase)
