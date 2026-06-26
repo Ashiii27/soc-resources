@@ -121,9 +121,9 @@ For Sigma or YARA rule submissions, include a brief note on what the rule detect
 
 ## About
 
-Built and maintained by [Ash](https://github.com/Ashiii27) — CSE undergrad, cybersecurity practitioner, TryHackMe Top 3%, and blue team enthusiast. This repo is a living document, updated as tools evolve, new techniques emerge, and better resources surface.
+Built and maintained by [Ash](https://github.com/Ashiii27) — CSE undergrad, cybersecurity practitioner, TryHackMe Top 2%, and blue team enthusiast. This repo is a living document, updated as tools evolve, new techniques emerge, and better resources surface.
 
-Connect: [GitHub](https://github.com/Ashiii27) · [LinkedIn](https://linkedin.com/in/) · [Medium](https://medium.com/)
+Connect: [GitHub](https://github.com/Ashiii27) · [LinkedIn](https://www.linkedin.com/in/ashiii27/) · [Medium](https://medium.com/@ashiii.2790)
 
 ---
 
