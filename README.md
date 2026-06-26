@@ -14,7 +14,7 @@
 [![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen?style=flat-square)](https://github.com/Ashiii27/soc-blue-team-resources)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue?style=flat-square)](https://github.com/Ashiii27/soc-blue-team-resources/pulls)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat-square&logo=tryhackme)](https://tryhackme.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=flat-square&logo=github)](https://github.com/Ashiii27)
 
 </div>
